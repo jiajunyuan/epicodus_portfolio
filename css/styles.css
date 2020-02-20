@@ -1,0 +1,31 @@
+body, html {
+    height: 100%;
+}
+
+.header_text {
+    margin-left: 6px;
+}
+
+#header_img {
+    width: 150%;
+    height: auto;
+    background-image: url(https://www.theapprenticeeconomist.com/wp-content/uploads/2019/08/The-Apprentice-Economist.png);
+
+    height: 100%;
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header{
+    position: absolute;
+    top: 300px;
+    left: 550px;
+    font-size: larger;
+  }
+
+.fab {
+    color: black;
+}
