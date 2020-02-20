@@ -6,3 +6,5 @@ Portfolio Landing Page
 A landing page for my personal portfolio.
 # Page Link
 https://jiajunyuan.github.io/portfolio
+# License
+MIT License.
